@@ -1,0 +1,26 @@
+Weather App Using Next.js
+
+Technology: Next.js, Tailwind CSS, Free Weather API
+
+আপনি Next.js এবং Tailwind CSS ব্যবহার করে একটি Simple Weather App তৈরি করবেন। Weather দেখানোর জন্য আপনাকে একটি Free API ব্যবহার করতে হবে।
+Pages (৪টি)
+
+    Home: Header, Weather Display, About Section এবং Footer থাকবে।
+
+    About: অ্যাপটি সম্পর্কে সংক্ষিপ্ত বিবরণ থাকবে।
+
+    Services: অ্যাপের Weather-related সুবিধাগুলো দেখাতে হবে।
+
+    Contact: একটি সাধারণ Contact Form তৈরি করতে হবে।
+
+Requirements
+
+    Tailwind CSS দিয়ে Responsive Design করতে হবে।
+
+    Temperature, time, interval,  Humidity এবং Wind Speed দেখাতে হবে।
+
+    Header ও Footer Component হিসেবে তৈরি করতে হবে।
+
+    Navigation-এর মাধ্যমে সব পেজে যাওয়া যাবে।
+
+    Free API ব্যবহার করে Weather Data দেখাতে হবে।
